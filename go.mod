@@ -1,4 +1,4 @@
-module github.com/GiovanniCavallari/golang-microservice
+module github.com/GiovanniCavallari/golang-microservices
 
 go 1.15
 
